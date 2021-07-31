@@ -1,1 +1,1 @@
-# censoredreddit.github.io
+https://censoredreddit.github.io
